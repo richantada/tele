@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 ,Dunia Anak
+http://103.148.44.22:5644/DuniaAnak
+#EXTINF:-1 ,ANIPLUS
+http://103.148.44.22:5641/ANIPLUS
+#EXTINF:-1 ,ANTARA
+http://103.148.44.22:5640/ANTARA
+#EXTINF:-1 ,Bioskop Indonesia
+http://103.148.44.22:5565/BioskopIndo
+#EXTINF:-1 ,Citra Dangdut
+http://103.148.44.22:5645/CitraDangdut
+#EXTINF:-1 ,Disney
+http://103.148.44.22:5564/DisneyCH
+#EXTINF:-1 ,disney Junior
+http://103.148.44.22:5642/disneyJunior
+#EXTINF:-1 ,EURONEWS
+http://103.148.44.22:5648/euroNewS
+#EXTINF:-1 ,FX HD
+http://103.148.44.22:5563/fxhd
+#EXTINF:-1 ,HBO FAM HD
+http://103.148.44.22:5566/HBOFamily
+#EXTINF:-1 ,Indo Siar
+http://103.148.44.22:5649/IndoSiar
+#EXTINF:-1 ,kompas tv
+http://103.148.44.22:5560/kompastv
+#EXTINF:-1 ,net HD
+http://103.148.44.22:5561/nethd
+#EXTINF:-1 ,new Rodja TV
+http://103.148.44.22:5647/RodJaTV
+#EXTINF:-1 ,SCTV
+http://103.148.44.22:5650/SCTV
+#EXTINF:-1 ,Trans TV
+http://103.148.44.22:5567/TransTV
+#EXTINF:-1 ,TV5 Monde
+http://103.148.44.22:5646/TV5Monde
+#EXTINF:-1 ,tvn movie
+http://103.148.44.22:5562/tvnmovie
