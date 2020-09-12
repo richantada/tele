@@ -1,0 +1,425 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 1
+http://amr4k.us:8080/N5346/N3567/15169
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 2
+http://amr4k.us:8080/N5346/N3567/15170
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 3
+http://amr4k.us:8080/N5346/N3567/15171
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 4
+http://amr4k.us:8080/N5346/N3567/15172
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 5
+http://amr4k.us:8080/N5346/N3567/15173
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 6
+http://amr4k.us:8080/N5346/N3567/15174
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 7
+http://amr4k.us:8080/N5346/N3567/15175
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 8
+http://amr4k.us:8080/N5346/N3567/15176
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 9
+http://amr4k.us:8080/N5346/N3567/15177
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 10
+http://amr4k.us:8080/N5346/N3567/15178
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 11
+http://amr4k.us:8080/N5346/N3567/15179
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 12
+http://amr4k.us:8080/N5346/N3567/15180
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports 13 
+http://amr4k.us:8080/N5346/N3567/15181
+#EXTINF:-1 group-title="BEIN SPORT",VIP BeIN Sports USA
+http://amr4k.us:8080/N5346/N3567/15182
+
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 1 srb FHD
+http://amr4k.us:8080/N5346/N3567/15090
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 2 srb FHD
+http://amr4k.us:8080/N5346/N3567/15091
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 3 srb FHD
+http://amr4k.us:8080/N5346/N3567/15092
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 4 srb FHD
+http://amr4k.us:8080/N5346/N3567/15093
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 5 srb FHD
+http://amr4k.us:8080/N5346/N3567/15094
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 1 Srb
+http://amr4k.us:8080/N5346/N3567/15095
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 2 Srb
+http://amr4k.us:8080/N5346/N3567/15096
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 3 Srb
+http://amr4k.us:8080/N5346/N3567/15097
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 4 Srb
+http://amr4k.us:8080/N5346/N3567/15098
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 5 Srb
+http://amr4k.us:8080/N5346/N3567/15099
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 1 HD Hr
+http://amr4k.us:8080/N5346/N3567/15100
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 2 HD Hr
+http://amr4k.us:8080/N5346/N3567/15101
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 3 HD Hr
+http://amr4k.us:8080/N5346/N3567/15102
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 4 HD Hr
+http://amr4k.us:8080/N5346/N3567/15103
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 5 HD Hr
+http://amr4k.us:8080/N5346/N3567/15104
+#EXTINF:-1 group-title="ARENA SPORT",VIP Arena Sport 6 HR
+http://amr4k.us:8080/N5346/N3567/15105
+
+#EXTINF:-1 group-title="RMC SPORT",VIP RMC Sport 1
+http://amr4k.us:8080/N5346/N3567/15183
+#EXTINF:-1 group-title="RMC SPORT",VIP RMC Sport 2
+http://amr4k.us:8080/N5346/N3567/15184
+#EXTINF:-1 group-title="RMC SPORT",VIP RMC Sport 3
+http://amr4k.us:8080/N5346/N3567/15185
+#EXTINF:-1 group-title="RMC SPORT",VIP RMC Sport 4
+http://amr4k.us:8080/N5346/N3567/15186
+
+#EXTINF:-1 group-title="SPORT KLUB",VIP Sport Klub HD
+http://amr4k.us:8080/N5346/N3567/15107
+#EXTINF:-1 group-title="SPORT KLUB",VIP Sport Klub 1
+http://amr4k.us:8080/N5346/N3567/15108
+#EXTINF:-1 group-title="SPORT KLUB",VIP Sport Klub 2
+http://amr4k.us:8080/N5346/N3567/15109
+#EXTINF:-1 group-title="SPORT KLUB",VIP Sport Klub 3
+http://amr4k.us:8080/N5346/N3567/15110
+#EXTINF:-1 group-title="SPORT KLUB",VIP Sport Klub 4
+http://amr4k.us:8080/N5346/N3567/15111
+#EXTINF:-1 group-title="SPORT KLUB",VIP Sport Klub 5
+http://amr4k.us:8080/N5346/N3567/15112
+#EXTINF:-1 group-title="SPORT KLUB",VIP Sport Klub 6
+http://amr4k.us:8080/N5346/N3567/15113
+#EXTINF:-1 group-title="SPORT KLUB",VIP Sos
+http://amr4k.us:8080/N5346/N3567/15114
+#EXTINF:-1 group-title="SPORT KLUB",VIP HnTv
+http://amr4k.us:8080/N5346/N3567/15115
+
+
+#EXTINF:-1 group-title="SPORT PLUS",RTSH Sport
+http://amr4k.us:8080/N5346/N3567/14929
+#EXTINF:-1 group-title="SPORT PLUS",Tring Sport 1
+http://amr4k.us:8080/N5346/N3567/14930
+#EXTINF:-1 group-title="SPORT PLUS",Tring Sport 2
+http://amr4k.us:8080/N5346/N3567/14931
+#EXTINF:-1 group-title="SPORT PLUS",Tring Sport 3
+http://amr4k.us:8080/N5346/N3567/14932
+#EXTINF:-1 group-title="SPORT PLUS",Tring Sport 4
+http://amr4k.us:8080/N5346/N3567/14933  
+#EXTINF:-1 group-title="SPORT PLUS",VIP Nova Sport
+http://amr4k.us:8080/N5346/N3567/15116
+#EXTINF:-1 group-title="SPORT PLUS",VIP Planet Sport 1
+http://amr4k.us:8080/N5346/N3567/15117
+#EXTINF:-1 group-title="SPORT PLUS",VIP Planet Sport 2
+http://amr4k.us:8080/N5346/N3567/15118
+#EXTINF:-1 group-title="SPORT PLUS",VIP Eurosport 1 HD
+http://amr4k.us:8080/N5346/N3567/15119
+#EXTINF:-1 group-title="SPORT PLUS",VIP Eurosport 2 HD
+http://amr4k.us:8080/N5346/N3567/15120 
+#EXTINF:-1,VIP TSN 1
+http://amr4k.us:8080/N5346/N3567/15121
+#EXTINF:-1 group-title="SPORT PLUS",VIP TSN 2
+http://amr4k.us:8080/N5346/N3567/15122
+#EXTINF:-1 group-title="SPORT PLUS",VIP TSN 3
+http://amr4k.us:8080/N5346/N3567/15123
+#EXTINF:-1 group-title="SPORT PLUS",VIP TSN 4
+http://amr4k.us:8080/N5346/N3567/15124
+#EXTINF:-1 group-title="SPORT PLUS",VIP TSN 5
+http://amr4k.us:8080/N5346/N3567/15125
+#EXTINF:-1 group-title="SPORT PLUS",VIP ESPN News
+http://amr4k.us:8080/N5346/N3567/15126
+#EXTINF:-1 group-title="SPORT PLUS",VIP ESPN
+http://amr4k.us:8080/N5346/N3567/15127
+#EXTINF:-1 group-title="SPORT PLUS",VIP ESPN 2
+http://amr4k.us:8080/N5346/N3567/15128
+#EXTINF:-1 group-title="SPORT PLUS",VIP ESPN U
+http://amr4k.us:8080/N5346/N3567/15129
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sportsnet 360
+http://amr4k.us:8080/N5346/N3567/15130
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sportsnet One
+http://amr4k.us:8080/N5346/N3567/15131
+#EXTINF:-1 group-title="SPORT PLUS",VIP SportsNet West
+http://amr4k.us:8080/N5346/N3567/15132
+#EXTINF:-1 group-title="SPORT PLUS",VIP SportsNet East
+http://amr4k.us:8080/N5346/N3567/15133
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sportsnet World
+http://amr4k.us:8080/N5346/N3567/15134
+#EXTINF:-1 group-title="SPORT PLUS",VIP NFL Network
+http://amr4k.us:8080/N5346/N3567/15135
+#EXTINF:-1 group-title="SPORT PLUS",VIP NFL Redzone
+http://amr4k.us:8080/N5346/N3567/15136
+#EXTINF:-1 group-title="SPORT PLUS",VIP NHL Network
+http://amr4k.us:8080/N5346/N3567/15137
+#EXTINF:-1 group-title="SPORT PLUS",VIP NBA TV
+http://amr4k.us:8080/N5346/N3567/15138
+#EXTINF:-1 group-title="SPORT PLUS",VIP Tennis Channel
+http://amr4k.us:8080/N5346/N3567/15139
+#EXTINF:-1 group-title="SPORT PLUS",VIP Fox Sport 1
+http://amr4k.us:8080/N5346/N3567/15140
+#EXTINF:-1 group-title="SPORT PLUS",VIP Fox Sport 2
+http://amr4k.us:8080/N5346/N3567/15141
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sports News
+http://amr4k.us:8080/N5346/N3567/15142
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sports Mix
+http://amr4k.us:8080/N5346/N3567/15143
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sports Football
+http://amr4k.us:8080/N5346/N3567/15147
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sports Golf
+http://amr4k.us:8080/N5346/N3567/15149
+#EXTINF:-1 group-title="SPORT PLUS",VIP BT Sport 1
+http://amr4k.us:8080/N5346/N3567/15151
+#EXTINF:-1 group-title="SPORT PLUS",VIP BT Sport 2
+http://amr4k.us:8080/N5346/N3567/15152
+#EXTINF:-1 group-title="SPORT PLUS",VIP BT Sport 3
+http://amr4k.us:8080/N5346/N3567/15153
+#EXTINF:-1 group-title="SPORT PLUS",VIP BT Sport Espn
+http://amr4k.us:8080/N5346/N3567/15154
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sport 1
+http://amr4k.us:8080/N5346/N3567/15155
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sport Bundesliga 1
+http://amr4k.us:8080/N5346/N3567/15157
+#EXTINF:-1 group-title="SPORT PLUS",VIP Fox Sports 1
+http://amr4k.us:8080/N5346/N3567/15158
+#EXTINF:-1 group-title="SPORT PLUS",VIP Fox Sports 2
+http://amr4k.us:8080/N5346/N3567/15159
+#EXTINF:-1 group-title="SPORT PLUS",VIP Fox Sports 3
+http://amr4k.us:8080/N5346/N3567/15160
+#EXTINF:-1 group-title="SPORT PLUS",VIP Fox Sports 4
+http://amr4k.us:8080/N5346/N3567/15161
+#EXTINF:-1 group-title="SPORT PLUS",VIP Fox Sports 5
+http://amr4k.us:8080/N5346/N3567/15162
+#EXTINF:-1 group-title="SPORT PLUS",VIP Fox Sports 6
+http://amr4k.us:8080/N5346/N3567/15163
+#EXTINF:-1 group-title="SPORT PLUS",VIP Ziggo Sport
+http://amr4k.us:8080/N5346/N3567/15164
+#EXTINF:-1 group-title="SPORT PLUS",VIP Ziggo Sport Racing
+http://amr4k.us:8080/N5346/N3567/15165
+#EXTINF:-1 group-title="SPORT PLUS",VIP Ziggo Sport Select
+http://amr4k.us:8080/N5346/N3567/15166
+#EXTINF:-1 group-title="SPORT PLUS",VIP Ziggo Sport Golf
+http://amr4k.us:8080/N5346/N3567/15167 
+
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sport 24 IT
+http://amr4k.us:8080/N5346/N3567/15187
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sport Uno IT
+http://amr4k.us:8080/N5346/N3567/15188
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sport Serie A IT
+http://amr4k.us:8080/N5346/N3567/15189
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sport Arena IT
+http://amr4k.us:8080/N5346/N3567/15190
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sport Football IT
+http://amr4k.us:8080/N5346/N3567/15191
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sport NBA IT
+http://amr4k.us:8080/N5346/N3567/15192
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sport F1 IT
+http://amr4k.us:8080/N5346/N3567/15193
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sport MotoGP IT
+http://amr4k.us:8080/N5346/N3567/15194
+#EXTINF:-1 group-title="SPORT PLUS",VIP Sky Sport Collection IT
+http://amr4k.us:8080/N5346/N3567/15195
+#EXTINF:-1 group-title="SPORT PLUS",VIP Super Tennis IT
+http://amr4k.us:8080/N5346/N3567/15196
+#EXTINF:-1 group-title="SPORT PLUS",VIP UFC USA
+http://amr4k.us:8080/N5346/N3567/15197
+#EXTINF:-1 group-title="SPORT PLUS",Abu Dhabi Sports 1
+http://amr4k.us:8080/N5346/N3567/15211
+#EXTINF:-1 group-title="SPORT PLUS",Abu Dhabi Sports 2
+http://amr4k.us:8080/N5346/N3567/15212
+#EXTINF:-1 group-title="SPORT PLUS",Abu Dhabi Sports 3
+http://amr4k.us:8080/N5346/N3567/15213
+#EXTINF:-1 group-title="SPORT PLUS",Abu Dhabi Sports 4
+http://amr4k.us:8080/N5346/N3567/15214
+#EXTINF:-1 group-title="SPORT PLUS",KSA Sport 1 HD
+http://amr4k.us:8080/N5346/N3567/15215
+#EXTINF:-1 group-title="SPORT PLUS",Jordan Sport
+http://amr4k.us:8080/N5346/N3567/15216
+#EXTINF:-1 group-title="SPORT PLUS",Oman Sport
+http://amr4k.us:8080/N5346/N3567/15223
+#EXTINF:-1 group-title="SPORT PLUS",Eleven Sports 1
+http://amr4k.us:8080/N5346/N3567/15224
+#EXTINF:-1 group-title="SPORT PLUS",Eleven Sports 2
+http://amr4k.us:8080/N5346/N3567/15225
+#EXTINF:-1 group-title="SPORT PLUS",Eleven Sports 3
+http://amr4k.us:8080/N5346/N3567/15226
+#EXTINF:-1 group-title="SPORT PLUS",Eleven Sports 4
+http://amr4k.us:8080/N5346/N3567/15227
+#EXTINF:-1 group-title="SPORT PLUS",Eleven Sports 5
+http://amr4k.us:8080/N5346/N3567/15228
+#EXTINF:-1 group-title="SPORT PLUS",Eleven Sports 6
+http://amr4k.us:8080/N5346/N3567/15229
+#EXTINF:-1 group-title="SPORT PLUS",FOX Sports MidWest
+http://amr4k.us:8080/N5346/N3567/15230
+#EXTINF:-1 group-title="SPORT PLUS",FOX Sports North
+http://amr4k.us:8080/N5346/N3567/15231
+#EXTINF:-1 group-title="SPORT PLUS",FOX Sports South
+http://amr4k.us:8080/N5346/N3567/15232
+#EXTINF:-1 group-title="SPORT PLUS",FOX Sports SouthEast
+http://amr4k.us:8080/N5346/N3567/15233
+#EXTINF:-1 group-title="SPORT PLUS",FOX Sports SouthWest
+http://amr4k.us:8080/N5346/N3567/15234
+#EXTINF:-1 group-title="SPORT PLUS",FOX Sports Prime Ticket
+http://amr4k.us:8080/N5346/N3567/15236
+#EXTINF:-1 group-title="SPORT PLUS",VIP FREESPORTS
+http://amr4k.us:8080/N5346/N3567/15237
+#EXTINF:-1 group-title="SPORT PLUS",SE :VH1
+http://amr4k.us:8080/N5346/N3567/15238
+#EXTINF:-1 group-title="SPORT PLUS",SE :SVT2 HD
+http://amr4k.us:8080/N5346/N3567/15239
+#EXTINF:-1 group-title="SPORT PLUS",SE :TV3 HD
+http://amr4k.us:8080/N5346/N3567/15240
+#EXTINF:-1 group-title="SPORT PLUS",SE :TV3 Sport HD
+http://amr4k.us:8080/N5346/N3567/15241
+#EXTINF:-1 group-title="SPORT PLUS",Tr: Tivibu Sport 2
+http://amr4k.us:8080/N5346/N3567/11270
+#EXTINF:-1 group-title="SPORT PLUS",Tr: Tivibu Sport 3
+http://amr4k.us:8080/N5346/N3567/11271
+#EXTINF:-1 group-title="SPORT PLUS",Tr: Sport Tv
+http://amr4k.us:8080/N5346/N3567/11274
+#EXTINF:-1 group-title="SPORT PLUS",Tr: Smart Sport
+http://amr4k.us:8080/N5346/N3567/11279 
+#EXTINF:-1,SPORT KLUB 1 (HR)
+http://amr4k.us:8080/N5346/N3567/11669
+#EXTINF:-1 group-title="SPORT PLUS",SPORT KLUB 2 (HR)
+http://amr4k.us:8080/N5346/N3567/11670
+#EXTINF:-1 group-title="SPORT PLUS",SPORT KLUB 3 (HR)
+http://amr4k.us:8080/N5346/N3567/11671
+#EXTINF:-1 group-title="SPORT PLUS",SPORT KLUB 1
+http://amr4k.us:8080/N5346/N3567/11672
+#EXTINF:-1 group-title="SPORT PLUS",SPORT KLUB 2
+http://amr4k.us:8080/N5346/N3567/11673
+#EXTINF:-1 group-title="SPORT PLUS",SPORT KLUB 3
+http://amr4k.us:8080/N5346/N3567/11674
+#EXTINF:-1 group-title="SPORT PLUS",SPORT KLUB 4
+http://amr4k.us:8080/N5346/N3567/11675
+#EXTINF:-1 group-title="SPORT PLUS",SPORT KLUB 5
+http://amr4k.us:8080/N5346/N3567/11676
+#EXTINF:-1 group-title="SPORT PLUS",SPORT KLUB 6
+http://amr4k.us:8080/N5346/N3567/11677
+#EXTINF:-1 group-title="SPORT PLUS",ARENA SPORT 1 (HR)
+http://amr4k.us:8080/N5346/N3567/11678
+#EXTINF:-1 group-title="SPORT PLUS",ARENA SPORT 2 (HR)
+http://amr4k.us:8080/N5346/N3567/11679
+#EXTINF:-1 group-title="SPORT PLUS",ARENA SPORT 3 (HR)
+http://amr4k.us:8080/N5346/N3567/11680
+#EXTINF:-1 group-title="SPORT PLUS",ARENA SPORT 4 (HR)
+http://amr4k.us:8080/N5346/N3567/11681
+#EXTINF:-1 group-title="SPORT PLUS",ARENA SPORT 5 (HR)
+http://amr4k.us:8080/N5346/N3567/11682
+#EXTINF:-1 group-title="SPORT PLUS",ARENA SPORT 1
+http://amr4k.us:8080/N5346/N3567/11683
+#EXTINF:-1 group-title="SPORT PLUS",ARENA SPORT 2
+http://amr4k.us:8080/N5346/N3567/11684
+#EXTINF:-1 group-title="SPORT PLUS",ARENA SPORT 3
+http://amr4k.us:8080/N5346/N3567/11685
+#EXTINF:-1 group-title="SPORT PLUS",ARENA SPORT 4
+http://amr4k.us:8080/N5346/N3567/11686
+#EXTINF:-1 group-title="SPORT PLUS",ARENA SPORT 5
+http://amr4k.us:8080/N5346/N3567/11687
+#EXTINF:-1 group-title="SPORT PLUS",ARENA SPORT 6
+http://amr4k.us:8080/N5346/N3567/11688
+#EXTINF:-1 group-title="SPORT PLUS",PLANET SPORT 5 HD
+http://amr4k.us:8080/N5346/N3567/11689
+#EXTINF:-1 group-title="SPORT PLUS",PLANET SPORT 1 HD
+http://amr4k.us:8080/N5346/N3567/11690
+#EXTINF:-1 group-title="SPORT PLUS",PLANET SPORT 2 HD
+http://amr4k.us:8080/N5346/N3567/11691
+#EXTINF:-1 group-title="SPORT PLUS",PLANET SPORT 3 HD
+http://amr4k.us:8080/N5346/N3567/11692
+#EXTINF:-1 group-title="SPORT PLUS",PLANET SPORT 4 HD
+http://amr4k.us:8080/N5346/N3567/11693
+#EXTINF:-1 group-title="SPORT PLUS",HNTV
+http://amr4k.us:8080/N5346/N3567/11694
+#EXTINF:-1 group-title="SPORT PLUS",EUROSPORT 1
+http://amr4k.us:8080/N5346/N3567/11695
+#EXTINF:-1 group-title="SPORT PLUS",EUROSPORT 2
+http://amr4k.us:8080/N5346/N3567/11696
+#EXTINF:-1 group-title="SPORT PLUS",EUROSPORT 1 (FR)
+http://amr4k.us:8080/N5346/N3567/11697
+#EXTINF:-1 group-title="SPORT PLUS",EUROSPORT 2 (FR)
+http://amr4k.us:8080/N5346/N3567/11698
+#EXTINF:-1 group-title="SPORT PLUS",EUROSPORT 1 (DE)
+http://amr4k.us:8080/N5346/N3567/11699
+#EXTINF:-1 group-title="SPORT PLUS",EUROSPORT 2 (DE)
+http://amr4k.us:8080/N5346/N3567/11700
+#EXTINF:-1 group-title="SPORT PLUS",SS AKCION HD
+http://amr4k.us:8080/N5346/N3567/11701
+#EXTINF:-1 group-title="SPORT PLUS",SSARENA HD
+http://amr4k.us:8080/N5346/N3567/11702
+#EXTINF:-1 group-title="SPORT PLUS",CRICKET HD
+http://amr4k.us:8080/N5346/N3567/11703
+#EXTINF:-1 group-title="SPORT PLUS",SS F1 (UK)
+http://amr4k.us:8080/N5346/N3567/11704
+#EXTINF:-1 group-title="SPORT PLUS",SS FOTBALL HD
+http://amr4k.us:8080/N5346/N3567/11705
+#EXTINF:-1 group-title="SPORT PLUS",GOLF HD
+http://amr4k.us:8080/N5346/N3567/11706
+#EXTINF:-1 group-title="SPORT PLUS",SS MEVENT HD
+http://amr4k.us:8080/N5346/N3567/11707
+#EXTINF:-1 group-title="SPORT PLUS",SS MIX HD
+http://amr4k.us:8080/N5346/N3567/11708
+#EXTINF:-1 group-title="SPORT PLUS",BT SPORT 1 HD
+http://amr4k.us:8080/N5346/N3567/11709
+#EXTINF:-1 group-title="SPORT PLUS",BLIGA 2 (MATCHDAY ONLY)
+http://amr4k.us:8080/N5346/N3567/11713
+#EXTINF:-1 group-title="SPORT PLUS",BLIGA 3 (MATCHDAY ONLY)
+http://amr4k.us:8080/N5346/N3567/11714
+#EXTINF:-1 group-title="SPORT PLUS",BLIGA 4 (MATCHDAY ONLY)
+http://amr4k.us:8080/N5346/N3567/11715
+#EXTINF:-1 group-title="SPORT PLUS",BLIGA 5 (MATCHDAY ONLY)
+http://amr4k.us:8080/N5346/N3567/11716
+#EXTINF:-1 group-title="SPORT PLUS",RAI NEWS 24 (IT)
+http://amr4k.us:8080/N5346/N3567/11717
+#EXTINF:-1 group-title="SPORT PLUS",SS F1 (IT)
+http://amr4k.us:8080/N5346/N3567/11718
+#EXTINF:-1 group-title="SPORT PLUS",BEINSPORTS 1
+http://amr4k.us:8080/N5346/N3567/11719
+#EXTINF:-1 group-title="SPORT PLUS",BEIN SPORTS 3
+http://amr4k.us:8080/N5346/N3567/11721
+#EXTINF:-1 group-title="SPORT PLUS",BEIN SPORTS 5
+http://amr4k.us:8080/N5346/N3567/11723
+#EXTINF:-1 group-title="SPORT PLUS",BEIN SPORTS 6
+http://amr4k.us:8080/N5346/N3567/11724
+#EXTINF:-1 group-title="SPORT PLUS",BEIN SPORTS 7
+http://amr4k.us:8080/N5346/N3567/11725
+#EXTINF:-1 group-title="SPORT PLUS",BEIN SPORTS 8
+http://amr4k.us:8080/N5346/N3567/11726
+#EXTINF:-1 group-title="SPORT PLUS",BEIN SPORTS 9
+http://amr4k.us:8080/N5346/N3567/11727
+#EXTINF:-1 group-title="SPORT PLUS",BEIN SPORTS 1 (FR)
+http://amr4k.us:8080/N5346/N3567/11728
+#EXTINF:-1 group-title="SPORT PLUS",BEIN SPORTS 3 (FR)
+http://amr4k.us:8080/N5346/N3567/11730
+#EXTINF:-1 group-title="SPORT PLUS",FOX SPORTS 1 (NL)
+http://amr4k.us:8080/N5346/N3567/11731
+#EXTINF:-1 group-title="SPORT PLUS",FOX SPORTS 2 (NL)
+http://amr4k.us:8080/N5346/N3567/11732
+#EXTINF:-1 group-title="SPORT PLUS",FOX SPORT 3 (NL)
+http://amr4k.us:8080/N5346/N3567/11733
+#EXTINF:-1 group-title="SPORT PLUS",FOX SPORTS 4 (NL)
+http://amr4k.us:8080/N5346/N3567/11734
+#EXTINF:-1 group-title="SPORT PLUS",DIGI SPORT 1 (RO)
+http://amr4k.us:8080/N5346/N3567/11735
+#EXTINF:-1 group-title="SPORT PLUS",DIGI SPORT 2 (RO)
+http://amr4k.us:8080/N5346/N3567/11736
+#EXTINF:-1 group-title="SPORT PLUS",SS AUSTRIA
+http://amr4k.us:8080/N5346/N3567/11737
+#EXTINF:-1 group-title="SPORT PLUS",TSN 1
+http://amr4k.us:8080/N5346/N3567/11738
+#EXTINF:-1 group-title="SPORT PLUS",TSN 2
+http://amr4k.us:8080/N5346/N3567/11739
+#EXTINF:-1 group-title="SPORT PLUS",TSN 3
+http://amr4k.us:8080/N5346/N3567/11740
+#EXTINF:-1 group-title="SPORT PLUS",TSN 4
+http://amr4k.us:8080/N5346/N3567/11741
+#EXTINF:-1 group-title="SPORT PLUS",TSN 5
+http://amr4k.us:8080/N5346/N3567/11742
+#EXTINF:-1 group-title="SPORT PLUS",NBA TV
+http://amr4k.us:8080/N5346/N3567/11743 
+#EXTINF:-1 group-title="sport",SPORTSKA TV
+http://amr4k.us:8080/N5346/N3567/11744 #EXTINF:-1 group-title="sport",AUTO MOTOR SPORT
+http://amr4k.us:8080/N5346/N3567/11745
+#EXTINF:-1 group-title="SPORT PLUS",FIGHT CHANNEL
+http://amr4k.us:8080/N5346/N3567/11746
+#EXTINF:-1 group-title="SPORT PLUS",REAL MADRID TV (SPA)
+http://amr4k.us:8080/N5346/N3567/11747
+#EXTINF:-1 group-title="SPORT PLUS",BARCA TV (SPA)
+http://amr4k.us:8080/N5346/N3567/11748 #EXTINF:-1 group-title="SPORT PLUS",ELEVEN SPORT 1 FHD
+http://amr4k.us:8080/N5346/N3567/11749 #EXTINF:-1 group-title="SPORT PLUS",ELEVEN SPORT 2 FHD
+http://amr4k.us:8080/N5346/N3567/11750 #EXTINF:-1 group-title="SPORT PLUS",ELEVEN SPORT 3 FHD
+http://amr4k.us:8080/N5346/N3567/11751 #EXTINF:-1 group-title="SPORT PLUS",ELEVEN SPORT 4 FHD
+http://amr4k.us:8080/N5346/N3567/11752
