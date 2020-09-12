@@ -1,0 +1,440 @@
+#EXTM3U
+
+
+#EXTINF:-1  group-title="SPORT 1",UK: Sky Sports Cricket HD
+http://amr4k.us:8080/N5346/N3567/33807
+#EXTINF:-1  group-title="SPORT 1",UK: Sky Sports F1 HD
+http://amr4k.us:8080/N5346/N3567/33808
+#EXTINF:-1  group-title="SPORT 1",UK: Sky Sports Premier League HD
+http://amr4k.us:8080/N5346/N3567/33809
+#EXTINF:-1  group-title="SPORT 1",UK: Sky Sports Main Event HD
+http://amr4k.us:8080/N5346/N3567/33810
+#EXTINF:-1  group-title="SPORT 1",UK: Sky Sports Football HD
+http://amr4k.us:8080/N5346/N3567/33811
+#EXTINF:-1  group-title="SPORT 1",UK: Sky Sports Action HD
+http://amr4k.us:8080/N5346/N3567/33812
+#EXTINF:-1  group-title="SPORT 1",UK: Sky Sports Golf HD
+http://amr4k.us:8080/N5346/N3567/33813
+#EXTINF:-1  group-title="SPORT 1",UK: Sky Sports Arena HD
+http://amr4k.us:8080/N5346/N3567/33814
+#EXTINF:-1  group-title="SPORT 1",UK: Sky Sports Mix HD
+http://amr4k.us:8080/N5346/N3567/33815
+#EXTINF:-1  group-title="SPORT 1",UK: BT Sport 2 HD
+http://amr4k.us:8080/N5346/N3567/33817
+#EXTINF:-1  group-title="SPORT 1",UK: BT Sport 3
+http://amr4k.us:8080/N5346/N3567/33818
+#EXTINF:-1  group-title="SPORT 1",UK: BT Sport ESPN
+http://amr4k.us:8080/N5346/N3567/33819
+#EXTINF:-1  group-title="SPORT 1",UK: Eurosport 1 HD
+http://amr4k.us:8080/N5346/N3567/33820
+#EXTINF:-1  group-title="SPORT 1",UK: Eurosport 2 HD
+http://amr4k.us:8080/N5346/N3567/33821
+#EXTINF:-1  ,UK: Box Nation HD
+http://amr4k.us:8080/N5346/N3567/33822
+#EXTINF:-1  group-title="SPORT 1",UK: Racing TV
+http://amr4k.us:8080/N5346/N3567/33823
+#EXTINF:-1  group-title="SPORT 1",UK: Sky Sports Racing HD
+http://amr4k.us:8080/N5346/N3567/33824
+#EXTINF:-1  ,UK: MUTV Manchester United
+http://amr4k.us:8080/N5346/N3567/33825
+#EXTINF:-1  ,UK: Chelsea TV
+http://amr4k.us:8080/N5346/N3567/33826
+#EXTINF:-1  group-title="SPORT 1",UK: Liverpool F.C.
+http://amr4k.us:8080/N5346/N3567/33827
+#EXTINF:-1  group-title="SPORT 1",UK: Motors TV
+http://amr4k.us:8080/N5346/N3567/33828
+#EXTINF:-1  group-title="SPORT 1",UK: Premier Sports 1 HD
+http://amr4k.us:8080/N5346/N3567/33829
+#EXTINF:-1  group-title="SPORT 1",UK: Eir Sport 1 HD
+http://amr4k.us:8080/N5346/N3567/33830
+#EXTINF:-1  group-title="SPORT 1",UK: Eir Sport 2 HD
+http://amr4k.us:8080/N5346/N3567/33831
+#EXTINF:-1  ,SP | TSN 5 HD (Y)
+http://amr4k.us:8080/N5346/N3567/34170
+#EXTINF:-1  ,SP | TSN 1 HD (Y)
+http://amr4k.us:8080/N5346/N3567/34171
+#EXTINF:-1  ,ES | #Vamos FHD(K)
+http://amr4k.us:8080/N5346/N3567/34172
+#EXTINF:-1  group-title="SPORT 1",Movistar Liga Campeones FHD(K)
+http://amr4k.us:8080/N5346/N3567/34173
+#EXTINF:-1  group-title="SPORT 1",PT | Benfica TV (M)
+http://amr4k.us:8080/N5346/N3567/34174
+#EXTINF:-1  group-title="SPORT 1",[PT] A BOLA TV (M)
+http://amr4k.us:8080/N5346/N3567/34175
+#EXTINF:-1  group-title="SPORT 1",Movistar Laliga fhd (M)
+http://amr4k.us:8080/N5346/N3567/34176
+#EXTINF:-1  group-title="SPORT 1",SPORTS | LONGHORN NETWORK (Y)
+http://amr4k.us:8080/N5346/N3567/34177
+#EXTINF:-1  ,MLB TV HD(G)
+http://amr4k.us:8080/N5346/N3567/34178
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NBA TV FHD (M)
+http://amr4k.us:8080/N5346/N3567/34179
+#EXTINF:-1  group-title="SPORT 1",DEP | ESPN DEPORTES FHD(K)
+http://amr4k.us:8080/N5346/N3567/34180
+#EXTINF:-1  group-title="SPORT 1",UK | Sky Sports Golf HD(V)
+http://amr4k.us:8080/N5346/N3567/34181
+#EXTINF:-1  ,For the Love of Jessee (2020) 1080 dual
+http://amr4k.us:8080/N5346/N3567/34182
+#EXTINF:-1  group-title="SPORT 1",DEP | ESPN 2 MX HD (K)
+http://amr4k.us:8080/N5346/N3567/34183
+#EXTINF:-1  group-title="SPORT 1",DEP | ESPN 3 MEX HD (H)
+http://amr4k.us:8080/N5346/N3567/34184
+#EXTINF:-1  group-title="SPORT 1",DEP | Fox Sports 1 HD MX (Y)
+http://amr4k.us:8080/N5346/N3567/34185
+#EXTINF:-1  group-title="SPORT 1",LaLiga TV Bar HD (X)
+http://amr4k.us:8080/N5346/N3567/34186
+#EXTINF:-1  ,CINE | TCM HD (Y)
+http://amr4k.us:8080/N5346/N3567/34187
+#EXTINF:-1  group-title="SPORT 1",SPORTS | Fox Sports Racing (M)
+http://amr4k.us:8080/N5346/N3567/34188
+#EXTINF:-1  ,DEP | TUDN HD USA (G)
+http://amr4k.us:8080/N5346/N3567/34189
+#EXTINF:-1  ,DEP | ESPN + HD MX (H)
+http://amr4k.us:8080/N5346/N3567/34190
+#EXTINF:-1  ,TNT Series HD (H)
+http://amr4k.us:8080/N5346/N3567/34191
+#EXTINF:-1  ,UK | Sky Sports Football(M)
+http://amr4k.us:8080/N5346/N3567/34192
+#EXTINF:-1  ,CINE | Fox Premium Movies HD(H)
+http://amr4k.us:8080/N5346/N3567/34193
+#EXTINF:-1  group-title="SPORT 1",SPORTS | CBS SPORTS HQ (Y)
+http://amr4k.us:8080/N5346/N3567/34194
+#EXTINF:-1  group-title="SPORT 1",SPORTS | CBS SPORTS NETWORK(Y)
+http://amr4k.us:8080/N5346/N3567/34195
+#EXTINF:-1  group-title="SPORT 1",SPORTS | ELEVEN SPORTS NETWORK(Y)
+http://amr4k.us:8080/N5346/N3567/34196
+#EXTINF:-1  group-title="SPORT 1",SPORTS | FOX COLLEGE SPORTS PACIFIC(Y)
+http://amr4k.us:8080/N5346/N3567/34197
+#EXTINF:-1  group-title="SPORT 1",SPORTS | FOX SPORTS 1 (Y)
+http://amr4k.us:8080/N5346/N3567/34198
+#EXTINF:-1  group-title="SPORT 1",SPORTS | FOX SPORTS 2(Y)
+http://amr4k.us:8080/N5346/N3567/34199
+#EXTINF:-1  group-title="SPORT 1",SPORTS | FOX SPORTS CAROLINAS(Y)
+http://amr4k.us:8080/N5346/N3567/34200
+#EXTINF:-1  group-title="SPORT 1",SPORTS | FOX SPORTS MIDWEST(Y)
+http://amr4k.us:8080/N5346/N3567/34201
+#EXTINF:-1  group-title="SPORT 1",SPORTS | Fox Sports News(Y)
+http://amr4k.us:8080/N5346/N3567/34202
+#EXTINF:-1  group-title="SPORT 1",SPORTS | FOX SPORTS OKLAHOMA(Y)
+http://amr4k.us:8080/N5346/N3567/34203
+#EXTINF:-1  group-title="SPORT 1",SPORTS | FOX SPORTS SOUTHWEST PLUS(Y)
+http://amr4k.us:8080/N5346/N3567/34204
+#EXTINF:-1  group-title="SPORT 1",SPORTS | FOX SPORTS TENNESSEE(Y)
+http://amr4k.us:8080/N5346/N3567/34205
+#EXTINF:-1  group-title="SPORT 1",SPORTS | FOX SPORTS WISCONSIN(Y)
+http://amr4k.us:8080/N5346/N3567/34206
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NBCSN CHICAGO PLUS(Y)
+http://amr4k.us:8080/N5346/N3567/34207
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NBCSN WASHINGTON PLUS(Y)
+http://amr4k.us:8080/N5346/N3567/34208
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NBCSN WASHINGTON (Y)
+http://amr4k.us:8080/N5346/N3567/34209
+#EXTINF:-1  group-title="SPORT 1",SPORTS | TENNIS CHANNEL(Y)
+http://amr4k.us:8080/N5346/N3567/34210
+#EXTINF:-1  group-title="SPORT 1",SPORTS | TVG NETWORK(Y)
+http://amr4k.us:8080/N5346/N3567/34211
+#EXTINF:-1  ,BR | Premiere 3 (A)
+http://amr4k.us:8080/N5346/N3567/34235
+#EXTINF:-1  ,BR | PREMIERE 4 HD (A)
+http://amr4k.us:8080/N5346/N3567/34236
+#EXTINF:-1  ,UK | MUTV(Y)
+http://amr4k.us:8080/N5346/N3567/34237
+#EXTINF:-1  group-title="SPORT 1",NL:Ziggo Sport Select HD NL(V)
+http://amr4k.us:8080/N5346/N3567/34238
+#EXTINF:-1  group-title="SPORT 1",NL:FOX Sports 1 HD NL(V)
+http://amr4k.us:8080/N5346/N3567/34239
+#EXTINF:-1  group-title="SPORT 1",NL:FOX Sports 2 HD NL(V)
+http://amr4k.us:8080/N5346/N3567/34240
+#EXTINF:-1  group-title="SPORT 1",NL: Fox Sports 3 HD(V)
+http://amr4k.us:8080/N5346/N3567/34241
+#EXTINF:-1  group-title="SPORT 1",NL:FOX Sports 4 HD NL(V)
+#EXTINF:-1group-title="SPORT 1",NL: Fox Sports 5 HD(V)
+http://amr4k.us:8080/N5346/N3567/34243
+#EXTINF:-1  group-title="SPORT 1",NL: Fox Sports 6 HD(V)
+http://amr4k.us:8080/N5346/N3567/34244
+#EXTINF:-1  group-title="SPORT 1",DEP | ESPN 2 hd Ar(Y)
+http://amr4k.us:8080/N5346/N3567/34245
+#EXTINF:-1  group-title="SPORT 1",DEP | ESPN 3 HD AR (K)
+http://amr4k.us:8080/N5346/N3567/34246
+#EXTINF:-1  group-title="SPORT 1",DEP | ESPN 1 MX HD (H)
+http://amr4k.us:8080/N5346/N3567/34247
+#EXTINF:-1  group-title="SPORT 1",BR | FOX SPORTS 2 HD (L)
+http://amr4k.us:8080/N5346/N3567/34248
+#EXTINF:-1  group-title="SPORT 1",DEP | Fox Sports 2 MX HD(K)
+http://amr4k.us:8080/N5346/N3567/34249
+#EXTINF:-1  ,FOX Premium Action HD (G)
+http://amr4k.us:8080/N5346/N3567/34250
+#EXTINF:-1  group-title="SPORT 1",SOPORTS | Red Bull TV(M)
+http://amr4k.us:8080/N5346/N3567/34251
+#EXTINF:-1  group-title="SPORT 1",BR | SPORTV 1 (G)
+http://amr4k.us:8080/N5346/N3567/34252
+#EXTINF:-1  group-title="SPORT 1",FIGHT TIME(Q)
+http://amr4k.us:8080/N5346/N3567/34253
+#EXTINF:-1  group-title="SPORT 1",SPORTS | WE TV (Y)
+http://amr4k.us:8080/N5346/N3567/34254
+#EXTINF:-1  group-title="SPORT 1",SPORTS | MLB STRIKEZONE (Y)
+http://amr4k.us:8080/N5346/N3567/34255
+#EXTINF:-1  group-title="SPORT 1",DEP | GOL TV HD (L)
+http://amr4k.us:8080/N5346/N3567/34256
+#EXTINF:-1  group-title="SPORT 1",SPORTS | Fox Sports Florida HD(H)
+http://amr4k.us:8080/N5346/N3567/34257
+#EXTINF:-1  group-title="SPORT 1",SPORTS | Fox Sports South East HD(Y)
+http://amr4k.us:8080/N5346/N3567/34258
+#EXTINF:-1  ,ESP | Multideporte(K)
+http://amr4k.us:8080/N5346/N3567/34260
+#EXTINF:-1  ,ESP | TELEDEPORTE FHD(M)
+http://amr4k.us:8080/N5346/N3567/34261
+#EXTINF:-1  group-title="SPORT 1",ESP | ESPORT 3 (K)
+http://amr4k.us:8080/N5346/N3567/34262
+#EXTINF:-1  group-title="SPORT 1",UK | Sky Sports Cricket FHD(V)
+http://amr4k.us:8080/N5346/N3567/34263
+#EXTINF:-1  group-title="SPORT 1",UK | UFC fight night Pass HD(V)
+http://amr4k.us:8080/N5346/N3567/34264
+#EXTINF:-1  group-title="SPORT 1",[FR] RMC SPORT 1 FHD(X)
+http://amr4k.us:8080/N5346/N3567/34265
+#EXTINF:-1  group-title="SPORT 1",[FR] RMC SPORT 2 FHD(X)
+http://amr4k.us:8080/N5346/N3567/34266
+#EXTINF:-1  group-title="SPORT 1",[FR] RMC SPORT 3 FHD(X)
+http://amr4k.us:8080/N5346/N3567/34267
+#EXTINF:-1  group-title="SPORT 1",[FR] RMC SPORT 4 FHD(X)
+http://amr4k.us:8080/N5346/N3567/34268
+#EXTINF:-1  group-title="SPORT 1",FR] INFOSPORT + HD(M)
+http://amr4k.us:8080/N5346/N3567/34269
+#EXTINF:-1  group-title="SPORT 1",Sports | ACC Network(Y)
+http://amr4k.us:8080/N5346/N3567/34270
+#EXTINF:-1  group-title="SPORT 1",SPORTS | FOX Sports Ohio(Y)
+http://amr4k.us:8080/N5346/N3567/34271
+#EXTINF:-1  group-title="SPORT 1",SPORTS | FOX Sports San Diego(Y)
+http://amr4k.us:8080/N5346/N3567/34272
+#EXTINF:-1  group-title="SPORT 1",SPORTS | SPORTSNET_PPV(M)
+http://amr4k.us:8080/N5346/N3567/34273
+#EXTINF:-1  group-title="SPORT 1",FR | RMC Sport Access 1 FHD(V)
+http://amr4k.us:8080/N5346/N3567/34274
+#EXTINF:-1  group-title="SPORT 1",FR | RMC Sport Access 2 FHD(V)
+http://amr4k.us:8080/N5346/N3567/34275
+#EXTINF:-1  group-title="SPORT 1",FR | RMC Sport Access 3 FHD(V)
+http://amr4k.us:8080/N5346/N3567/34276
+#EXTINF:-1  group-title="SPORT 1",FR | Canal+ Sport HD(V)
+http://amr4k.us:8080/N5346/N3567/34277
+#EXTINF:-1  group-title="SPORT 1",SPORTS | Stadium HD(L)
+http://amr4k.us:8080/N5346/N3567/34278
+#EXTINF:-1  group-title="SPORT 1",SPORTS | Hardknocks (L)
+http://amr4k.us:8080/N5346/N3567/34279
+#EXTINF:-1  group-title="SPORT 1",sports | Lax Sports Network(L)
+http://amr4k.us:8080/N5346/N3567/34280
+#EXTINF:-1  group-title="SPORT 1",Sports | FOX SPORTS NEW ORLEANS (H)
+http://amr4k.us:8080/N5346/N3567/34281
+#EXTINF:-1  ,PAC 12 ARIZONA HD (B)
+http://amr4k.us:8080/N5346/N3567/34282
+#EXTINF:-1  ,PAC 12 BAY AREA HD (B)
+http://amr4k.us:8080/N5346/N3567/34283
+#EXTINF:-1  ,PAC 12 LOS ANGELES HD (B)
+http://amr4k.us:8080/N5346/N3567/34284
+#EXTINF:-1  ,PAC 12 WASHINGTON HD (B)
+http://amr4k.us:8080/N5346/N3567/34285
+#EXTINF:-1  group-title="SPORT 1",SPORTS | UFC Fight Pass (Y)
+http://amr4k.us:8080/N5346/N3567/34286
+#EXTINF:-1  group-title="SPORT 1",SPORTS | MLB Network (Y)
+http://amr4k.us:8080/N5346/N3567/34287
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NHL Network (Y)
+http://amr4k.us:8080/N5346/N3567/34288
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NFL Red Zone (Y)
+http://amr4k.us:8080/N5346/N3567/34289
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NFL Network (Y)
+http://amr4k.us:8080/N5346/N3567/34290
+#EXTINF:-1  group-title="SPORT 1",SPORTS | YES Network (Y)
+http://amr4k.us:8080/N5346/N3567/34291
+#EXTINF:-1  group-title="SPORT 1",SPORTS | WWE Network (Y)
+http://amr4k.us:8080/N5346/N3567/34292
+#EXTINF:-1  group-title="SPORT 1",DEP | FOX Sports 1 MX SD (H)
+http://amr4k.us:8080/N5346/N3567/34293
+#EXTINF:-1  group-title="SPORT 1",DEP | ESPN 2 SD Mx(H)
+http://amr4k.us:8080/N5346/N3567/34294
+#EXTINF:-1  group-title="SPORT 1",DEP | ESPN 1 MX sd(W)
+http://amr4k.us:8080/N5346/N3567/34295 
+#EXTINF:-1group-title="SPORT 1",SPORT | SPORTSNET 360 (Y)
+http://amr4k.us:8080/N5346/N3567/34314
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NBCSN BAY AREA HD (Y)
+http://amr4k.us:8080/N5346/N3567/34315
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NESN HD(Y)
+http://amr4k.us:8080/N5346/N3567/34316
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NESN Plus(Y)
+http://amr4k.us:8080/N5346/N3567/34317
+#EXTINF:-1  group-title="SPORT 1",SPORTS | MSG+ (Y)
+http://amr4k.us:8080/N5346/N3567/34318
+#EXTINF:-1  ,ES | Vamos HD (K)
+http://amr4k.us:8080/N5346/N3567/34319
+#EXTINF:-1  group-title="SPORT 1",ES | Eurosport 1 hd (A)
+http://amr4k.us:8080/N5346/N3567/34320
+#EXTINF:-1  group-title="SPORT 1",ES | Eurosport 2 hd(M)
+http://amr4k.us:8080/N5346/N3567/34321
+#EXTINF:-1  group-title="SPORT 1",[PT] SPORT TV +(M)
+http://amr4k.us:8080/N5346/N3567/34322
+#EXTINF:-1  group-title="SPORT 1",[PT] SPORT TV +(M)
+http://amr4k.us:8080/N5346/N3567/34323
+#EXTINF:-1  group-title="SPORT 1",[PT] ELEVEN SPORTS 1 HD(M)
+http://amr4k.us:8080/N5346/N3567/34324
+#EXTINF:-1  group-title="SPORT 1",[PT] ELEVEN SPORTS 2 HD(M)
+http://amr4k.us:8080/N5346/N3567/34325
+#EXTINF:-1  group-title="SPORT 1",[PT] ELEVEN SPORTS 3 HD (M)
+http://amr4k.us:8080/N5346/N3567/34326
+#EXTINF:-1  group-title="SPORT 1",[PT] ELEVEN SPORTS 4 HD(M)
+http://amr4k.us:8080/N5346/N3567/34327
+#EXTINF:-1  group-title="SPORT 1",[PT] ELEVEN SPORTS 5(M)
+http://amr4k.us:8080/N5346/N3567/34328
+#EXTINF:-1  group-title="SPORT 1",[PT] ELEVEN SPORTS 6(M)
+http://amr4k.us:8080/N5346/N3567/34329
+#EXTINF:-1  group-title="SPORT 1",[PT] SPORTING TV(M)
+http://amr4k.us:8080/N5346/N3567/34330
+#EXTINF:-1  group-title="SPORT 1",[PT] EUROSPORT 1(M)
+http://amr4k.us:8080/N5346/N3567/34331
+#EXTINF:-1  group-title="SPORT 1",[PT] KOMBAT SPORT(M)
+http://amr4k.us:8080/N5346/N3567/34332
+#EXTINF:-1  group-title="SPORT 1",[PT] PORTO CANAL(M)
+http://amr4k.us:8080/N5346/N3567/34333
+#EXTINF:-1  group-title="SPORT 1",sports | SPORTSNET ONTARIO | SD (Y)
+http://amr4k.us:8080/N5346/N3567/34334
+#EXTINF:-1  group-title="SPORT 1",FR] EUROSPORT 1 HD(V)
+http://amr4k.us:8080/N5346/N3567/34335
+#EXTINF:-1  group-title="SPORT 1",[FR] EUROSPORT 2 HD(V)
+http://amr4k.us:8080/N5346/N3567/34336
+#EXTINF:-1  group-title="SPORT 1",IT Eurosport 1 HD(V)
+http://amr4k.us:8080/N5346/N3567/34337
+#EXTINF:-1  group-title="SPORT 1",[IT] Eurosport 2 HD(V)
+http://amr4k.us:8080/N5346/N3567/34338
+#EXTINF:-1  group-title="SPORT 1",UK | EuroSport 1(V)
+http://amr4k.us:8080/N5346/N3567/34339
+#EXTINF:-1  group-title="SPORT 1",UK | EuroSport 2(V)
+http://amr4k.us:8080/N5346/N3567/34340
+#EXTINF:-1  group-title="SPORT 1",[UK] Free Sports(Y)
+http://amr4k.us:8080/N5346/N3567/34341
+#EXTINF:-1  group-title="SPORT 1",[UK] Premier Sports 1 HD (V)
+http://amr4k.us:8080/N5346/N3567/34342
+#EXTINF:-1  group-title="SPORT 1",[UK] Premier Sports 2 HD(V)
+http://amr4k.us:8080/N5346/N3567/34343
+#EXTINF:-1  group-title="SPORT 1",UK | Sky Sports Main Events(M)
+http://amr4k.us:8080/N5346/N3567/34344
+#EXTINF:-1  group-title="SPORT 1",UK | Sky Sports MIX (V)
+http://amr4k.us:8080/N5346/N3567/34345
+#EXTINF:-1  group-title="SPORT 1",UK | Sky Sports Racing(V)
+http://amr4k.us:8080/N5346/N3567/34346
+#EXTINF:-1  group-title="SPORT 1",IT] Rai Sport HD(V)
+http://amr4k.us:8080/N5346/N3567/34347
+#EXTINF:-1  group-title="SPORT 1",FOX SPORTS PRIME TICKET HD(Y)
+http://amr4k.us:8080/N5346/N3567/34348
+#EXTINF:-1  group-title="SPORT 1",FOX SPORTS SOUTH(Y)
+http://amr4k.us:8080/N5346/N3567/34349
+#EXTINF:-1  group-title="SPORT 1",FOX SPORTS SOUTHWEST(Y)
+http://amr4k.us:8080/N5346/N3567/34350
+#EXTINF:-1  group-title="SPORT 1",FOX COLLEGE SPORTS CENTRAL(Y1)
+http://amr4k.us:8080/N5346/N3567/34351
+#EXTINF:-1  group-title="SPORT 1",FOX COLLEGE SPORTS PACIFIC(Y1)
+http://amr4k.us:8080/N5346/N3567/34352
+#EXTINF:-1  group-title="SPORT 1",[USA SPORT] Fox Sports Arizona HD(Y)
+http://amr4k.us:8080/N5346/N3567/34353
+#EXTINF:-1  group-title="SPORT 1",[USA SPORT] Fox Sports West HD(Y)
+http://amr4k.us:8080/N5346/N3567/34354
+#EXTINF:-1  group-title="SPORT 1",[USA SPORT] MAV TV(Y)
+http://amr4k.us:8080/N5346/N3567/34355
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NBCSN(Y)
+http://amr4k.us:8080/N5346/N3567/34356
+#EXTINF:-1  ,NBCSN Boston(Y)
+http://amr4k.us:8080/N5346/N3567/34357
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NBCSN California(Y)
+http://amr4k.us:8080/N5346/N3567/34358
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NBCSN Chicago(Y)
+http://amr4k.us:8080/N5346/N3567/34359
+#EXTINF:-1  ,NBCSN Northwest(Y)
+http://amr4k.us:8080/N5346/N3567/34360
+#EXTINF:-1  group-title="SPORT 1",SPORTS | NBCSN Philadelphia(Y)
+http://amr4k.us:8080/N5346/N3567/34361
+#EXTINF:-1  group-title="SPORT 1",SPORTS | WORLD FISHING NETWORK(H)
+http://amr4k.us:8080/N5346/N3567/34362
+#EXTINF:-1  group-title="SPORT 1",[USA SPORT] SNY HD(Y)
+http://amr4k.us:8080/N5346/N3567/34363
+#EXTINF:-1  group-title="SPORT 1",SPORTS | SEC Network HD(Y)
+http://amr4k.us:8080/N5346/N3567/34364
+#EXTINF:-1  group-title="SPORT 1",SPORTS | Fox Sports Detroit(Y)
+http://amr4k.us:8080/N5346/N3567/34365
+#EXTINF:-1  group-title="SPORT 1",SPORTS | Fox Sports North(H)
+http://amr4k.us:8080/N5346/N3567/34366
+#EXTINF:-1  group-title="SPORT 1",SPORTS | Fox Sports Sun(L)
+http://amr4k.us:8080/N5346/N3567/34367
+#EXTINF:-1  group-title="SPORT 1",[UK] Eir Sport 1(Y)
+http://amr4k.us:8080/N5346/N3567/34368
+#EXTINF:-1  group-title="SPORT 1",[UK] Eir Sport 2(V)
+http://amr4k.us:8080/N5346/N3567/34369
+#EXTINF:-1  group-title="SPORT 1",Super Sport 1 HD
+http://amr4k.us:8080/N5346/N3567/34417
+#EXTINF:-1  group-title="SPORT 1",Super Sport 2 HD
+http://amr4k.us:8080/N5346/N3567/34418
+#EXTINF:-1  group-title="SPORT 1",Super Sport 3 HD
+http://amr4k.us:8080/N5346/N3567/34419
+#EXTINF:-1  group-title="SPORT 1",Super Sport 4 HD
+http://amr4k.us:8080/N5346/N3567/34420
+#EXTINF:-1  group-title="SPORT 1",Super Sport 5 HD
+http://amr4k.us:8080/N5346/N3567/34421
+#EXTINF:-1  group-title="SPORT 1",Super Sport 6 HD
+http://amr4k.us:8080/N5346/N3567/34422
+#EXTINF:-1  group-title="SPORT 1",Super Sport 7 HD
+http://amr4k.us:8080/N5346/N3567/34423
+#EXTINF:-1  group-title="SPORT 1",Super Sport 8 HD
+http://amr4k.us:8080/N5346/N3567/34424
+#EXTINF:-1  group-title="SPORT 1",Super Sport 9 HD
+http://amr4k.us:8080/N5346/N3567/34425
+#EXTINF:-1  group-title="SPORT 1",Super Sport 10 HD
+http://amr4k.us:8080/N5346/N3567/34426
+#EXTINF:-1  group-title="SPORT 1",Super Sport 12 HD
+http://amr4k.us:8080/N5346/N3567/34427 
+#EXTINF:-1group-title="SPORT 1",|| PT || SPORT TV + HD
+http://amr4k.us:8080/N5346/N3567/35846
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORT TV + SD
+http://amr4k.us:8080/N5346/N3567/35847
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORT TV1 FHD
+http://amr4k.us:8080/N5346/N3567/35848
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORT TV1 HD
+http://amr4k.us:8080/N5346/N3567/35849
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORT TV1 SD
+http://amr4k.us:8080/N5346/N3567/35850
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORT TV2 FHD
+http://amr4k.us:8080/N5346/N3567/35851
+#EXTINF:-1  group-title="SPORT 1",| PT || SPORT TV2 HD
+http://amr4k.us:8080/N5346/N3567/35852
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORT TV2 SD
+http://amr4k.us:8080/N5346/N3567/35853
+#EXTINF:-1  group-title="SPORT 1",SPORT TV3 FHD
+http://amr4k.us:8080/N5346/N3567/35854
+#EXTINF:-1  group-title="SPORT 1",| PT || SPORT TV3 HD
+http://amr4k.us:8080/N5346/N3567/35855
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORT TV3 SD
+http://amr4k.us:8080/N5346/N3567/35856
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORT TV4 FHD
+http://amr4k.us:8080/N5346/N3567/35857
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORT TV4 SD
+http://amr4k.us:8080/N5346/N3567/35858
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORT TV5 FHD
+http://amr4k.us:8080/N5346/N3567/35859
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORT TV5 HD
+http://amr4k.us:8080/N5346/N3567/35860
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORT TV5 SD
+http://amr4k.us:8080/N5346/N3567/35861
+#EXTINF:-1  group-title="SPORT 1",|| PT || BENFICA TV HD
+http://amr4k.us:8080/N5346/N3567/35862
+#EXTINF:-1  group-title="SPORT 1",|| PT || ELEVEN SPORTS 1 FHD
+http://amr4k.us:8080/N5346/N3567/35863
+#EXTINF:-1  group-title="SPORT 1",|| PT || ELEVEN SPORTS 1 SD
+http://amr4k.us:8080/N5346/N3567/35865
+#EXTINF:-1  group-title="SPORT 1",|| PT || ELEVEN SPORTS 2 SD
+http://amr4k.us:8080/N5346/N3567/35868
+#EXTINF:-1  group-title="SPORT 1",|| PT || ELEVEN SPORTS 3 FHD
+http://amr4k.us:8080/N5346/N3567/35869
+#EXTINF:-1  group-title="SPORT 1",|| PT || ELEVEN SPORTS 5 FHD
+http://amr4k.us:8080/N5346/N3567/35875
+#EXTINF:-1  group-title="SPORT 1",|| PT || ELEVEN SPORTS 5 HD
+http://amr4k.us:8080/N5346/N3567/35876
+#EXTINF:-1  group-title="SPORT 1",|| PT || ELEVEN SPORTS 6 HD
+http://amr4k.us:8080/N5346/N3567/35879
+#EXTINF:-1  group-title="SPORT 1",|| PT || SPORTING TV HD
+http://amr4k.us:8080/N5346/N3567/35881
+#EXTINF:-1  group-title="SPORT 1",|| PT || KOMBAT SPORT
+http://amr4k.us:8080/N5346/N3567/35885 
