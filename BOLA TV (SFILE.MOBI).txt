@@ -1,0 +1,397 @@
+
+#EXTINF:-1 group-title="SPORT1",NBCSN
+http://iptv-line.com:7899/8hEPUVk43e/RGQdWf25M7/17200
+#EXTINF:-1, tvg-logo="" group-title="SPORT1", RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="SPORT1",beIN Sports XTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT1", TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT1",CCTV5+
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="SPORT1" tvg-logo="",Astro SuperSport 1
+http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110252
+#EXTINF:-1 group-title="SPORT1" tvg-logo="",Astro SuperSport 2
+http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110253
+#EXTINF:-1 group-title="SPORT1" tvg-logo="",Astro SuperSport 3
+http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110254
+#EXTINF:-1 group-title="SPORT1" tvg-logo="",Astro SuperSport 4
+http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110255
+#EXTINF:-1 group-title="SPORT1" tvg-logo="",Premier HD1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT1" tvg-logo="",Premier HD2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT1" tvg-logo="",Premier HD3
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT1" tvg-logo="",Premier HD4
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT1" tvg-logo="",Premier HD5
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT1" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",UK Sky Sports EPL
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT1" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",UK Sky Sports Mainevent
+http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT1" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",UK Sky Sports Football
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8 
+#EXTINF:-1 group-title="SPORT1" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",UK BT Sport 1
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT1" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png",UK BT Sport 2
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT1" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra1.png",UK BT Sport Extra 1
+http://160.119.77.116:8081/iptv/uk-btsportextra1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT1" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra2.png",UK BT Sport Extra 2
+http://160.119.77.116:8081/iptv/uk-btsportextra2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="SPORT1",RMC 1
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2545/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="SPORT1",RMC 2
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2546/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="SPORT1",RMC 3
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2547/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="SPORT1",DIGI SPORT 1
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2523/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="SPORT1",DIGI SPORT 2
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2522/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="SPORT1",DIGI SPORT 3
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2524/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png" group-title="SPORT1",DIGI SPORT 4
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2538/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/daznbar1.png" group-title="SPORT1", DAZN 1 BAR
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19886
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/daznbar2.png" group-title="SPORT1", DAZN 2 BAR
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19887
+#EXTINF:-1 tvg-logo="" group-title="SPORT1", Premier Football 1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT1", Premier Football 2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT1", Premier Football 3
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ELEVENSP" tvg-logo="https://internetowa.tv/img/logo/elevensport-1.png" ,Eleven Sports 1
+http://internetowa.tv/?c=hlsPlay&channel=eleven&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+
+#EXTINF:-1 group-title="ELEVENSP" tvg-logo="https://internetowa.tv/img/logo/elevensport2.png" ,Eleven Sports 2
+http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="ELEVENSP" tvg-logo="https://internetowa.tv/img/logo/elevensport-3.png" ,Eleven Sports 3
+http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="ELEVENSP" tvg-logo="https://internetowa.tv/img/logo/eleven-sports-4.png" ,Eleven Sports 4
+http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="SPORT1",Band Sports HD
+http://appcliente.com:8880/wilhan/1234/6591
+#EXTINF:-1 group-title="SPORT1",Band Sports SD
+http://appcliente.com:8880/wilhan/1234/6480 
+#EXTINF:-1 group-title="SPORT1",SPORTV
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92645 
+#EXTINF:-1 group-title="SPORT1",SPORTV 1
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92731 
+#EXTINF:-1 group-title="SPORT1",SPORTV 2
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92647 
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="FOXSPORT",Fox Sport 1
+https://cloud-service.best/hplus.php?play&id=3681
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/813474-foxsport2.png" group-title="FOXSPORT",Fox Sport 2
+https://cloud-service.best/hplus.php?play&id=3781
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/07/16/894184-foxsport_3.png" group-title="FOXSPORT",Fox Sport 3
+https://cloud-service.best/hplus.php?play&id=87672
+
+#EXTINF:-1 tvg-logo="mmm" group-title="ARENASP", Arena Sport 1
+http://srb.00387.info/ArenaSport1SR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="mmm" group-title="ARENASP", Arena Sport 2
+http://srb.00387.info/ArenaSport2SR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="mmm" group-title="ARENASP", Arena Sport 3 SR
+http://srb.00387.info/ArenaSport3SR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="mmm" group-title="ARENASP", Arena Sport 4
+http://srb.00387.info/ArenaSport4SR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="mmm" group-title="ARENASP", Arena Sport 5
+http://srb.00387.info/ArenaSport5SR/index.m3u8?token=test
+
+
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT SERIE A HD
+http://luminar.tv:2300/violo/violo/10387
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT SERIE A FULL HD
+http://luminar.tv:2300/violo/violo/10388
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT FOOTBALL HD
+http://luminar.tv:2300/violo/violo/10399
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT FOOTBALL FULL HD
+http://luminar.tv:2300/violo/violo/10400
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT ARENA HD
+http://luminar.tv:2300/violo/violo/10406
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT ARENA FULL HD
+http://luminar.tv:2300/violo/violo/10407
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT NBA HD
+http://luminar.tv:2300/violo/violo/10390
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT NBA FULL HD
+http://luminar.tv:2300/violo/violo/10391
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT F1 HD
+http://luminar.tv:2300/violo/violo/10402
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT F1 FULL HD
+http://luminar.tv:2300/violo/violo/10403
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT MOTOGP HD
+http://luminar.tv:2300/violo/violo/10393
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT MOTOGP FULL HD
+http://luminar.tv:2300/violo/violo/10394
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT GOLF HD
+http://luminar.tv:2300/violo/violo/10396
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT GOLF FULL HD
+http://luminar.tv:2300/violo/violo/10397
+#EXTINF:-1 group-title="SKY ITALI",SKY SPORT DELAY
+http://luminar.tv:2300/violo/violo/10404
+#EXTINF:-1 group-title="SKY ITALI",EUROSPORT
+http://luminar.tv:2300/violo/violo/10678
+#EXTINF:-1 group-title="SKY ITALI",EUROSPORT2
+http://luminar.tv:2300/violo/violo/10677
+#EXTINF:-1 group-title="SKY ITALI",ROMA Channel FULL HD
+http://luminar.tv:2300/violo/violo/10411
+#EXTINF:-1 group-title="SKY ITALI",BIKE CHANNEL HD
+http://luminar.tv:2300/violo/violo/10564
+#EXTINF:-1 group-title="SKY ITALI",BIKE CHANNEL FULL HD
+http://luminar.tv:2300/violo/violo/10565
+#EXTINF:-1 group-title="SKY ITALI",GINX ESPORT TV
+http://luminar.tv:2300/violo/violo/10460
+#EXTINF:-1 group-title="SKY ITALI",HORSE TV FULL HD
+http://luminar.tv:2300/violo/violo/10457
+#EXTINF:-1 group-title="SKY ITALI",MILAN TV FULL HD
+http://luminar.tv:2300/violo/violo/10448
+#EXTINF:-1 group-title="SKY ITALI",INTER Channel FULL HD
+http://luminar.tv:2300/violo/violo/10456
+#EXTINF:-1 group-title="SKY ITALI",LAZIO Style Channel
+http://luminar.tv:2300/violo/violo/10453
+#EXTINF:-1 group-title="SKY ITALI",TORINO Channel FULL HD
+http://luminar.tv:2300/violo/violo/10378
+#EXTINF:-1 group-title="SKY ITALI",CACCIA E PESCA FULL HD
+http://luminar.tv:2300/violo/violo/10559
+#EXTINF:-1 group-title="SKY ITALI",PESCA E CACCIA FULL HD
+http://luminar.tv:2300/violo/violo/10432 
+#EXTINF:-1,SKY CALCIO 1 HD
+http://luminar.tv:2300/violo/violo/10557
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 1 FULL HD
+http://luminar.tv:2300/violo/violo/10558
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 2 HD
+http://luminar.tv:2300/violo/violo/10554
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 2 FULL HD
+http://luminar.tv:2300/violo/violo/10555
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 3 HD
+http://luminar.tv:2300/violo/violo/10551
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 3 FULL HD
+http://luminar.tv:2300/violo/violo/10552
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 4 HD
+http://luminar.tv:2300/violo/violo/10548
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 4 FULL HD
+http://luminar.tv:2300/violo/violo/10549
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 5 HD
+http://luminar.tv:2300/violo/violo/10545
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 5 FULL HD
+http://luminar.tv:2300/violo/violo/10546
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 6 HD
+http://luminar.tv:2300/violo/violo/10543
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 6 FULL HD
+http://luminar.tv:2300/violo/violo/10544
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 7 HD
+http://luminar.tv:2300/violo/violo/10541
+#EXTINF:-1 group-title="SKY ITALI",SKY CALCIO 7 FULL HD
+http://luminar.tv:2300/violo/violo/10542 
+
+#EXTINF:-1 group-title="DAZN SP",SKY DAZN BAR HD
+http://luminar.tv:2300/violo/violo/10499
+#EXTINF:-1 group-title="DAZN SP",SKY DAZN BAR FULL HD
+http://luminar.tv:2300/violo/violo/10500
+#EXTINF:-1 group-title="DAZN SP",SKY DAZN BAR 2 HD
+http://luminar.tv:2300/violo/violo/10501
+#EXTINF:-1 group-title="DAZN SP",SKY DAZN BAR 2 FULL HD
+http://luminar.tv:2300/violo/violo/10502
+#EXTINF:-1 group-title="DAZN SP",DAZN WEB 1
+http://luminar.tv:2300/violo/violo/10696
+#EXTINF:-1 group-title="DAZN SP",DAZN WEB 2
+http://luminar.tv:2300/violo/violo/10694
+#EXTINF:-1 group-title="DAZN SP",DAZN WEB 3
+http://luminar.tv:2300/violo/violo/10693
+#EXTINF:-1 group-title="DAZN SP",DAZN WEB 4
+http://luminar.tv:2300/violo/violo/10692
+#EXTINF:-1 group-title="DAZN SP",DAZN WEB 5
+http://luminar.tv:2300/violo/violo/10691
+#EXTINF:-1 group-title="DAZN SP",DAZN WEB 6
+http://luminar.tv:2300/violo/violo/10690
+#EXTINF:-1 group-title="DAZN SP",DAZN WEB 7
+http://luminar.tv:2300/violo/violo/10689
+#EXTINF:-1 group-title="DAZN SP",DAZN WEB 8
+http://luminar.tv:2300/violo/violo/10688
+#EXTINF:-1 group-title="DAZN SP",DAZN WEB 9
+http://luminar.tv:2300/violo/violo/10687
+#EXTINF:-1 group-title="DAZN SP",DAZN WEB 10
+http://luminar.tv:2300/violo/violo/10695
+#EXTINF:-1 group-title="DAZN SP",My Sports 1 FHD
+http://luminar.tv:2300/violo/violo/20038
+#EXTINF:-1 group-title="DAZN SP",My Sports 2 FHD
+http://luminar.tv:2300/violo/violo/20039
+#EXTINF:-1 group-title="DAZN SP",My Sports 3 FHD
+http://luminar.tv:2300/violo/violo/20040
+#EXTINF:-1 group-title="DAZN SP",My Sports 4 FHD
+http://luminar.tv:2300/violo/violo/20041
+#EXTINF:-1 group-title="DAZN SP",My Sports 5 FHD
+http://luminar.tv:2300/violo/violo/20042
+#EXTINF:-1 group-title="DAZN SP",My Sports 6 FHD
+http://luminar.tv:2300/violo/violo/20043 
+#EXTINF:-1 group-title="DAZN SP",My Sports 7 FHD
+http://luminar.tv:2300/violo/violo/20044
+#EXTINF:-1 group-title="DAZN SP",My Sports 8 FHD
+http://luminar.tv:2300/violo/violo/20045
+#EXTINF:-1 group-title="DAZN SP",My Sports 9 FHD
+http://luminar.tv:2300/violo/violo/20046 
+
+
+#EXTINF:-1 group-title="SSP",AF | SUPERSPORT 1
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/20398 
+#EXTINF:-1 group-title="SSP",AF | SUPERSPORT 2
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/20399
+#EXTINF:-1 group-title="SSP",AF | SUPERSPORT 4
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/20400
+#EXTINF:-1 group-title="SSP",AF | SUPERSPORT 5
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/20401
+#EXTINF:-1 group-title="SSP",AF | SUPERSPORT 6
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/20402
+#EXTINF:-1 group-title="SSP",AF | SUPERSPORT 7
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/20403
+#EXTINF:-1 group-title="SSP",AF | SUPERSPORT 8
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/20404
+#EXTINF:-1 group-title="SSP",AF | SUPERSPORT 9
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/20405 
+
+#EXTINF:-1 group-title="SSP",AF | SUPERSPORT 10
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/20406
+#EXTINF:-1 group-title="SSP",AF | SUPERSPORT 11
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/20407
+#EXTINF:-1 group-title="SSP",AF | SUPERSPORT 12
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/20408 
+
+
+#EXTINF:-1 group-title="BEINSPORT",UK: beIN Sports 1 | HD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43166
+#EXTINF:-1 group-title="BEINSPORT",UK | beIN Sports 2 HD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43169
+#EXTINF:-1 group-title="BEINSPORT",UK | beIN Sports 3 HD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43170
+#EXTINF:-1 group-title="BEINSPORT",UK | beIN Sports 4 HD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43171
+#EXTINF:-1 group-title="BEINSPORT",UK | beIN Sports 5 SD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43172
+#EXTINF:-1 group-title="BEINSPORT",UK | beIN Sports 6 HD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43173
+#EXTINF:-1 group-title="BEINSPORT",UK | beIN Sports 7 HD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43174
+#EXTINF:-1 group-title="BEINSPORT",UK | beIN Sports 9 HD 
+#EXTINF:-1 group-title="BEINSPORT",UK: beIN Sports 10 | SD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43167
+#EXTINF:-1 group-title="BEINSPORT",UK | beIN Sports 11 SD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43378
+#EXTINF:-1 group-title="BEINSPORT",UK | beIN Sports 11 HD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43168
+#EXTINF:-1 group-title="BEINSPORT",UK: beIN Sports 12 | HD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43380
+#EXTINF:-1,UK | beIN Sports En Espanyol SD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43176
+#EXTINF:-1,UK | beIN Sports La Liga SD
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/43177 
+
+
+#EXTINF:-1 group-title="BEINSPN",SP: BEIN SPORTS 01
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13108
+#EXTINF:-1 group-title="BEINSPN",SP: BEIN SPORTS 02
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13109
+#EXTINF:-1 group-title="BEINSPN",SP: BEIN SPORTS 03
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13110
+#EXTINF:-1 group-title="BEINSPN",SP: BEIN SPORTS 04
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13111
+#EXTINF:-1 group-title="BEINSPN",SP: BEIN SPORTS 05
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13112
+#EXTINF:-1 group-title="BEINSPN",SP: BEIN SPORTS 06
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13113
+#EXTINF:-1 group-title="BEINSPN",SP: BEIN SPORTS 07
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13114
+#EXTINF:-1 group-title="BEINSPN",SP: BEIN SPORTS 08
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13115
+#EXTINF:-1 group-title="BEINSPN",SP: BEIN SPORTS 09
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13116
+#EXTINF:-1 group-title="BEINSPN",SP: BEIN SPORTS 10
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13117
+#EXTINF:-1 group-title="BEINSPN",BEIN SPORTS LA LIGA USA
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/12943
+#EXTINF:-1 group-title="BEINSPN",USA: BeIN Sports LaLiga
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/21974 
+
+
+#EXTINF:-1 group-title="ASTROSSP",ASTRO - EPL 1
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13549
+#EXTINF:-1 group-title="ASTROSSP",ASTRO - EPL 2
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13550
+#EXTINF:-1 group-title="ASTROSSP",ASTRO - EPL 3
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13551
+#EXTINF:-1 group-title="ASTROSSP",ASTRO - EPL 3.1
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13552
+#EXTINF:-1 group-title="ASTROSSP",ASTRO - EPL 4
+http://loginto.live:80/R8c6dg3Rxt/2G8GTz4kBd/13553 
+
+
+#EXTINF:-1 group-title="SERI A",TORINO CHANNEL HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133282
+#EXTINF:-1 group-title="SERI A",INTER MILAN HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133281
+#EXTINF:-1 group-title="SERI A",ROMA HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133280
+#EXTINF:-1 group-title="SERI A",Milan TV HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133279
+#EXTINF:-1 group-title="SERI A",juventus TV HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133278
+#EXTINF:-1 group-title="SERI A",Calcio 24 Napoli HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133277
+
+#EXTINF:-1 group-title="SERI A",Sky SuperCalcio serie A HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133224
+#EXTINF:-1 group-title="SERI A",TOP CALCIO 24 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133283
+#EXTINF:-1 group-title="SERI A",Sky Calcio 1 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133218
+
+#EXTINF:-1 group-title="SERI A",Sky Calcio 2 HD IT (MatchTime)
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133219
+#EXTINF:-1 group-title="SERI A",Sky Calcio 2 FHD IT (MatchTime)
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133270
+#EXTINF:-1 group-title="SERI A",Sky Calcio 3 HD IT (MatchTime)
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133220
+#EXTINF:-1 group-title="SERI A",Sky Calcio 3 FHD IT (MatchTime)
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133271
+#EXTINF:-1 group-title="SERI A",Sky Calcio 4 HD IT (MatchTime)
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133221
+#EXTINF:-1 group-title="SERI A",Sky Calcio 4 FHD IT (MatchTime)
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133272
+#EXTINF:-1 group-title="SERI A",Sky Calcio 5 HD IT (MatchTime)
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133222
+#EXTINF:-1 group-title="SERI A",Sky Calcio 5 FHD IT (MatchTime)
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133273
+
+#EXTINF:-1 group-title="SERI A",DAZN 1 SD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133314
+#EXTINF:-1 group-title="SERI A",DAZN 1 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133315
+
+#EXTINF:-1 group-title="SERI A",DAZN 2 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133313
+#EXTINF:-1 group-title="SERI A",DAZN 3 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133312
+#EXTINF:-1 group-title="SERI A",DAZN 4 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133311
+#EXTINF:-1 group-title="SERI A",DAZN 5 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133310
+#EXTINF:-1 group-title="SERI A",DAZN 6 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133309
+#EXTINF:-1 group-title="SERI A",DAZN 7 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133308
+#EXTINF:-1 group-title="SERI A",DAZN 8 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133307
+#EXTINF:-1 group-title="SERI A",DAZN 9 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133306
+#EXTINF:-1 group-title="SERI A",DAZN 10 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133305
+#EXTINF:-1 group-title="SERI A",DAZN 11 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133304
+#EXTINF:-1 group-title="SERI A",DAZN 12 HD IT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133303
